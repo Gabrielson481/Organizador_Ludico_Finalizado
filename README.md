@@ -30,16 +30,6 @@ Este projeto foi desenvolvido como parte da Certificadora de Competência 2 do c
 * **Letícia Fernanda Maioli Santos** (Camada de Persistência e Integração de Dados)
 * **Leonardo Pereira Jorge** (Design de Interface - UI/UX)
 * **Gabriel Riul Perissé** (Robustez do Sistema e QA)
-
-## 🔗 Repositório
-[Acesse o código-fonte aqui](https://github.com/Gabrielson481/Organizador%20Ludico%20Finalizado)
-
-## 📌 Como Rodar o Projeto
-1. Certifique-se de ter o **JDK** e o **NetBeans** instalados.
-2. Configure um banco de dados **PostgreSQL** local.
-3. Importe o projeto para o NetBeans.
-4. Configure a conexão com o banco de dados na classe `dao.ConexaoDB`.
-5. Execute a classe `view.Tela_Inicial`.
-
+* 
 ---
 *Desenvolvido na Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Cornélio Procópio.*
